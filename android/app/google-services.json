@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834334172185",
+    "project_id": "moneyscope-15133",
+    "storage_bucket": "moneyscope-15133.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834334172185:android:90132cd1d07bfef75a7688",
+        "android_client_info": {
+          "package_name": "com.MoneyScope.WV86Application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQPj-bOpDvhsN1RKp-yquZpiwd184BzlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
