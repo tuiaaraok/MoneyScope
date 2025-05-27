@@ -1,4 +1,4 @@
 flutter_launcher_icons:
   ios: true
-  image_path: "assets/main.png"
-  remove_alpha_ios: truefl
+  image_path: "assets/main.jpeg"
+  remove_alpha_ios: true
